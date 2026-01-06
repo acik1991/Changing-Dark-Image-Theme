@@ -1,0 +1,5 @@
+{
+  "name": "Image Color Transformer",
+  "description": "A tool to transform images by changing backgrounds to white and text/content to black, perfect for making dark-mode screenshots printable and high-contrast.",
+  "requestFramePermissions": []
+}
